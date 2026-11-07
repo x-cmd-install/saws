@@ -1,0 +1,16 @@
+- repo: spack
+  srcname: saws
+  visiblename: saws
+  version: develop
+  origversion: null
+  status: rolling
+  maintainers:
+    - fallback-mnt-spack@repology
+- repo: spack
+  srcname: saws
+  visiblename: saws
+  version: 0.1.1
+  origversion: null
+  status: unique
+  maintainers:
+    - fallback-mnt-spack@repology

@@ -1,3 +1,15 @@
+- repo: aur
+  srcname: saws
+  binname: saws
+  visiblename: saws
+  version: 0.1.0
+  origversion: 0.1.0-1
+  status: outdated
+  summary: Scientific Application Web server
+  maintainers:
+    - fallback-mnt-aur@repology
+  licenses:
+    - MIT
 - repo: spack
   srcname: saws
   visiblename: saws
@@ -11,6 +23,6 @@
   visiblename: saws
   version: 0.1.1
   origversion: null
-  status: unique
+  status: newest
   maintainers:
     - fallback-mnt-spack@repology

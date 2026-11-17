@@ -7,7 +7,7 @@
   status: outdated
   summary: Scientific Application Web server
   maintainers:
-    - fallback-mnt-aur@repology
+    - medaminezghal@aur
   licenses:
     - MIT
 - repo: spack

@@ -2,10 +2,10 @@
   srcname: saws
   binname: saws
   visiblename: saws
-  version: 0.1.0
-  origversion: 0.1.0-1
-  status: outdated
-  summary: Scientific Application Web server
+  version: "20260503"
+  origversion: 20260503-2
+  status: newest
+  summary: 'Scientific Application Web Server: monitor and steer running programs (such as PETSc) from a web browser'
   maintainers:
     - medaminezghal@aur
   licenses:
@@ -23,6 +23,6 @@
   visiblename: saws
   version: 0.1.1
   origversion: null
-  status: newest
+  status: outdated
   maintainers:
     - fallback-mnt-spack@repology
